@@ -52,24 +52,24 @@ body{
     cursor: url('../others/cursor.png'), auto;
 }
 #image1 .image{
-    background-image: url("../img/index_1.jpg");
+    background-image: url("img/index_1.jpg");
 }
 #image1:hover .image {
-    background-image: url("../img/index_2.jpg"); 
+    background-image: url("img/index_2.jpg"); 
 }
 #image2 .image{
-    background-image: url("../img/index_3.jpg");
+    background-image: url("img/index_3.jpg");
     width: 200px;
 }
 #image2:hover .image {
-    background-image: url("../img/index_4.jpg"); 
+    background-image: url("img/index_4.jpg"); 
     width: 200px;
 }
 #image3 .image{
-    background-image: url("../img/index_6.jpg");
+    background-image: url("img/index_6.jpg");
 }
 #image3:hover .image {
-    background-image: url("../img/index_5.jpg"); 
+    background-image: url("img/index_5.jpg"); 
 }
 
 .image-intro{
